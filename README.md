@@ -1,5 +1,5 @@
 # COVID-19 Broadcast LineBot - Taiwan
-<a href='https://lin.ee/ODPZfn5'>
+<a href='https://lin.ee/ODPZfn5' target="_blank">
     <img src='https://i.imgur.com/TBAurcm.png' style='width:30%'>
 </a>
 
