@@ -1,5 +1,5 @@
 
-from app import *
+from main import *
 from cgitb import text
 from re import L
 from linebot import (LineBotApi, WebhookHandler)

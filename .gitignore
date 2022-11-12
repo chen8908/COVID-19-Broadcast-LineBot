@@ -1,1 +1,6 @@
 /SiteSet
+/.idea
+/__pycache__
+ngrok
+Pipfile.lock
+Pipfile
